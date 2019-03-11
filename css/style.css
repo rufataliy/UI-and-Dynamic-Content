@@ -8,7 +8,7 @@
 .masterhead {
   text-align: center;
   height: 65vh;
-  background: url("img/masterhead-bg.jpeg");
+  background: url("../img/masterhead-bg.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
